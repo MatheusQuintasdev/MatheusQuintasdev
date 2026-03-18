@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Matheus+Quintas!+%F0%9F%91%8B;Desenvolvedor+Backend+em+formação;Node.js+%7C+JavaScript+%7C+MongoDB" alt="Typing SVG" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=Matheus%20Quintas&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Backend%20%7C%20Node.js%20%7C%20JavaScript&descAlignY=55&descAlign=50)
 
 </div>
 
