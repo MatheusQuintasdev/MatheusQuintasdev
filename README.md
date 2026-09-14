@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=Matheus%20Quintas&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20de%20Software%20em%20Formação%20%7C%20JavaScript%20%7C%20Node.js%20%7C%20React&descAlignY=58&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=Matheus%20Quintas&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20%7C%20JavaScript%20%7C%20Node.js%20%7C%20React&descAlignY=55&descAlign=50)
 
 </div>
 
@@ -8,136 +8,168 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Quintas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-quintass)
 [![GitHub](https://img.shields.io/badge/GitHub-MatheusQuintasdev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusQuintasdev)
+[![Vortex Digital Innovations](https://img.shields.io/badge/Vortex%20Digital%20Innovations-Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.vortexdi.com.br/)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+# 👨‍💻 Sobre mim
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas na FIAP**, com foco em desenvolvimento de software e aplicações web.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas na FIAP**, com foco em desenvolvimento de software, aplicações web e APIs.
 
-💻 Tenho experiência prática no desenvolvimento de projetos próprios e acadêmicos, trabalhando com **JavaScript, Node.js, React, APIs REST, bancos de dados e aplicações web**.
+💻 Tenho experiência prática desenvolvendo projetos próprios, acadêmicos e soluções digitais para clientes, trabalhando principalmente com **JavaScript, Node.js, Express, React, TypeScript, APIs REST, bancos de dados e Git/GitHub**.
 
-🚀 Atualmente venho aprofundando meus conhecimentos em **desenvolvimento backend e frontend**, criando aplicações com integração entre diferentes tecnologias, autenticação, persistência de dados e deploy.
+🚀 Atualmente estou aprofundando meus conhecimentos em desenvolvimento **backend e frontend**, criando aplicações com autenticação, persistência de dados, integração de APIs, componentes reutilizáveis e deploy.
 
-🧠 Também estudo **Inteligência Artificial** e utilizo ferramentas de IA no meu fluxo de desenvolvimento para pesquisa, aprendizado, prototipação, análise de código e produtividade.
+🤖 Também estudo **Inteligência Artificial** e utilizo ferramentas de IA no meu fluxo de desenvolvimento para pesquisa, aprendizado, prototipação, análise de código, resolução de problemas e produtividade.
 
-📚 Na FIAP, também desenvolvo conhecimentos em **Java, Python, SQL, Engenharia de Software, Banco de Dados e Arquitetura de aplicações**.
+🏢 Além dos projetos acadêmicos e pessoais, atuo na **Vortex Digital Innovations**, empresa de serviços digitais que desenvolve e oferece **sites profissionais por assinatura**, tendo contato com desenvolvimento de sites, necessidades de clientes e entrega de soluções digitais.
 
-🎯 Meu objetivo é atuar como **Estagiário em Desenvolvimento de Software**, contribuindo em projetos reais enquanto evoluo tecnicamente e aprendo com profissionais experientes.
+🎯 Busco uma oportunidade de **estágio em Desenvolvimento de Software**, onde possa contribuir com projetos reais, aprender com profissionais experientes e evoluir continuamente como desenvolvedor.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+# 🧰 Tecnologias & Ferramentas
 
 ### 💻 Desenvolvimento
 
-<div align="center">
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-</div>
-
-### 🌐 Front-end & Web
-
-<div align="center">
+### 🌐 Front-end
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-</div>
+### ⚙️ Backend & APIs
 
-### 🗄️ Dados & Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/API-REST-FF6C37?style=for-the-badge)
 
-<div align="center">
+### 🗄️ Banco de Dados
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-</div>
+### 🛠️ Ferramentas
 
-### 📚 Linguagens & Outros
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-## 🚀 Projetos em Destaque
+# 🏢 Experiência prática
 
-### 🔐 Sistema de Autenticação de Usuários — REST API
+## Vortex Digital Innovations
 
-API REST desenvolvida com **Node.js e Express**, utilizando **Prisma ORM e MongoDB Atlas** para persistência de dados.
+**Serviços digitais | Sites profissionais por assinatura**
 
-Implementa cadastro de usuários, autenticação com **JWT**, criptografia de senhas com **bcrypt** e proteção de rotas.
+Atuação no desenvolvimento e entrega de **sites institucionais e soluções web para clientes**, dentro de um modelo de serviço por assinatura.
+
+### Atividades
+
+- Desenvolvimento de sites institucionais e páginas web responsivas;
+- Criação e implementação de interfaces;
+- Adaptação de soluções de acordo com as necessidades de cada cliente;
+- Publicação e manutenção de projetos web;
+- Utilização de tecnologias modernas para desenvolvimento e prototipação;
+- Participação em todo o processo de criação da solução digital.
+
+🌐 **Site da empresa:**  
+https://www.vortexdi.com.br/
+
+---
+
+# 🚀 Projetos em Destaque
+
+## 🔐 Sistema de Autenticação de Usuários — REST API
+
+API REST desenvolvida com **Node.js e Express**, utilizando **Prisma ORM e MongoDB**.
+
+Implementa cadastro de usuários, login, autenticação com JWT, criptografia de senhas com bcrypt e proteção de rotas.
 
 **Tecnologias:**  
-`Node.js` `Express` `MongoDB` `Prisma` `JWT` `Bcrypt`
+`Node.js` `Express` `JavaScript` `MongoDB` `Prisma` `JWT` `Bcrypt`
 
 🔗 [Ver projeto no GitHub](https://github.com/MatheusQuintasdev/sistema-de-usuarios-back-end)
 
 ---
 
-### 📅 Clinic Scheduling API
+## 🏥 Clinic Scheduling API
 
-API REST desenvolvida para gerenciamento de informações e funcionalidades relacionadas a uma aplicação de clínica.
+API REST para gerenciamento de agendamento de consultas clínicas.
 
-Projeto focado na construção de serviços backend, organização da aplicação e integração com banco de dados.
+O projeto possui autenticação com JWT, CRUD de pacientes e médicos, gerenciamento de consultas, validação de conflitos de horários, cancelamento de consultas e documentação da API com Swagger.
 
 **Tecnologias:**  
-`Node.js` `Express` `JavaScript` `API REST`
+`Node.js` `Express` `JavaScript` `MongoDB` `Mongoose` `JWT` `Swagger`
+
+🔗 [Ver projeto no GitHub](https://github.com/MatheusQuintasdev/clinic-scheduling-api)
 
 ---
 
-### ✅ Sistema de Tarefas — To-Do List
+## 🌱 BraTech — Gamificação e Sustentabilidade
 
-Aplicação web para gerenciamento de tarefas, desenvolvida para praticar conceitos de desenvolvimento frontend, manipulação de dados e interação com o usuário.
+Projeto acadêmico desenvolvido para o **Challenge 2026 da FIAP**, com foco em gamificação e sustentabilidade.
+
+A aplicação utiliza React e arquitetura baseada em componentes, com navegação SPA, rotas dinâmicas, formulários, sistema de pontuação, desafios sustentáveis e interface responsiva.
+
+**Tecnologias:**  
+`React` `Vite` `TypeScript` `React Router` `React Hook Form` `Tailwind CSS`
+
+🔗 [Ver projeto no GitHub](https://github.com/MatheusQuintasdev/Gamificacao-BraTech)
+
+---
+
+## ✅ Sistema de Tarefas — To-Do List
+
+Aplicação web desenvolvida para gerenciamento de tarefas, utilizando conceitos de desenvolvimento frontend, manipulação de dados e interação com o usuário.
 
 **Tecnologias:**  
 `JavaScript` `HTML5` `CSS3`
 
----
-
-### 🌐 Projetos Web
-
-Desenvolvimento de sites institucionais e aplicações web responsivas para diferentes necessidades, trabalhando desde a estruturação das interfaces até a implementação e publicação dos projetos.
-
-**Tecnologias utilizadas:**  
-`HTML5` `CSS3` `JavaScript` `React` `TypeScript`
+🔗 [Ver projeto no GitHub](https://github.com/MatheusQuintasdev/sistema-de-tarefas-to-do-list)
 
 ---
 
-## 🎓 Formação
+# 🌐 Projetos Web
 
-**FIAP — Tecnologia em Análise e Desenvolvimento de Sistemas**
+Além das APIs e aplicações acadêmicas, desenvolvo **sites institucionais e aplicações web**, trabalhando com estruturação de interfaces, responsividade, experiência do usuário e publicação dos projetos.
+
+### 💼 Vortex Digital Innovations
+
+Empresa de serviços digitais com modelo de **sites profissionais por assinatura**.
+
+🔗 [Conhecer a Vortex Digital Innovations](https://www.vortexdi.com.br/)
+
+---
+
+# 🎓 Formação
+
+### FIAP
+
+**Tecnologia em Análise e Desenvolvimento de Sistemas**
 
 📍 São Paulo, Brasil  
-📅 2026 – 2027
+📅 Jan/2026 – Dez/2027
 
-Durante a formação, estudo e desenvolvo projetos nas áreas de:
+Durante a formação, desenvolvo conhecimentos em:
 
 - Desenvolvimento Front-end
 - Desenvolvimento Backend
-- APIs REST
-- React e Next.js
 - JavaScript e TypeScript
+- React e Next.js
+- APIs REST
+- Node.js
 - Banco de Dados e SQL
 - MongoDB
 - Java e Programação Orientada a Objetos
@@ -148,24 +180,47 @@ Durante a formação, estudo e desenvolvo projetos nas áreas de:
 
 ---
 
-## 🤖 Inteligência Artificial
+# 🤖 Inteligência Artificial
 
-Tenho interesse em **Inteligência Artificial aplicada ao desenvolvimento de software** e utilizo ferramentas de IA como parte do meu processo de aprendizado e desenvolvimento.
+Tenho interesse em **Inteligência Artificial aplicada ao desenvolvimento de software** e utilizo ferramentas de IA como parte do meu processo de desenvolvimento e aprendizado.
 
 Utilizo IA para:
 
-- 🔎 Pesquisa e aprendizado de novas tecnologias
+- 🔎 Pesquisa e aprendizado de tecnologias
 - 💡 Exploração de soluções e arquiteturas
 - 🧩 Prototipação de funcionalidades
-- 🐛 Investigação e correção de problemas
+- 🐛 Investigação e resolução de problemas
 - 📚 Estudo e revisão de conceitos
-- ⚡ Aumento de produtividade durante o desenvolvimento
+- ⚡ Aumento de produtividade
+- 💻 Apoio durante o desenvolvimento de aplicações
 
-Meu objetivo é ir além do uso de ferramentas prontas e entender cada vez mais como **IA pode ser integrada a aplicações e fluxos de desenvolvimento**.
+Meu objetivo é não apenas utilizar ferramentas de IA, mas entender cada vez mais como **IA pode ser aplicada na construção de produtos e soluções de software**.
 
 ---
 
-## 📊 GitHub Stats
+# 📚 Conhecimentos acadêmicos
+
+### Backend
+`Node.js` `Express` `Java` `APIs REST` `JWT` `Prisma`
+
+### Frontend
+`HTML5` `CSS3` `JavaScript` `React` `TypeScript` `Next.js` `Tailwind CSS`
+
+### Dados
+`SQL` `MongoDB` `Modelagem de Dados` `Mongoose`
+
+### Programação
+`JavaScript` `Java` `Python` `Programação Orientada a Objetos` `Estruturas de Dados`
+
+### Engenharia
+`Git` `GitHub` `APIs` `Autenticação` `Arquitetura de aplicações`
+
+### Inteligência Artificial
+`IA Generativa` `Chatbots` `Ferramentas de IA para desenvolvimento`
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -177,23 +232,13 @@ Meu objetivo é ir além do uso de ferramentas prontas e entender cada vez mais 
 
 ---
 
-## 📈 Atividade
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MatheusQuintasdev&theme=tokyonight)
-
-</div>
-
----
-
-## 📫 Contato
+# 📫 Contato
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Quintas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-quintass)
 
-[![Gmail](https://img.shields.io/badge/Gmail-qmatheusnogueira%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qmatheusnogueira@gmail.com)
+[![Email](https://img.shields.io/badge/Email-qmatheusnogueira%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qmatheusnogueira@gmail.com)
 
 </div>
 
@@ -201,6 +246,6 @@ Meu objetivo é ir além do uso de ferramentas prontas e entender cada vez mais 
 
 <div align="center">
 
-![Snake animation](https://github.com/MatheusQuintasdev/MatheusQuintasdev/blob/output/github-contribution-grid-snake.svg)
+**Sempre aprendendo, construindo e evoluindo. 🚀**
 
 </div>
